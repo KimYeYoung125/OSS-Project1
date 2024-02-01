@@ -3,6 +3,6 @@
 int main(){
 
 printf("Open Source SW Project\n");
-printf("I want to kill KimYeYoung.\n");
+printf("I want to kill KimYeYoung1.\n");
 return 0;
 }
