@@ -3,6 +3,6 @@
 int main(){
 
 printf("Open Source SW Project\n");
-printf("First HitHub Training\n");
+printf("I want to kill KimYeYoung.\n");
 return 0;
 }
